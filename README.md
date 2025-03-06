@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @Beykverdi
-- 👀 Interested in **Business Analyst, IT, AI**  
+- 👀 Interested in **Business Analyst, IT, & AI**  
 - 🌱 Currently learning **AI & DevOps**  
 - 💡 Passionate about **Product Management & Business Development & LLM & IT Projects**  
 - 🤝 Open to collaboration on **Exciting Projects**  
