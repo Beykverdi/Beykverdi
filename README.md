@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Majid Beykverdi, PhD
-- 👀 Interested in **Business Analysis, IT, & AI**  
+- 👀 Interested in **Business Analyst, IT, AI**  
 - 🌱 Currently learning **AI & DevOps**  
-- 💡 Passionate about **Product Management & Business Development**  
+- 💡 Passionate about **Product Management & Business Development & LLM & IT**  
 - 🤝 Open to collaboration on **exciting projects**  
 
 ---
